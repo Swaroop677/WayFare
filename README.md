@@ -1,6 +1,6 @@
-# Aero Fare — AI Flight Price Intelligence Platform
+# Wayfare — Flight Price Intelligence Platform
 
-**Aero Fare** is a production-quality, luxury aviation-themed web application for AI-powered flight price prediction and empirical flight analytics. Built using real schedule and pricing data from 40,000 flight observations across Indian metro corridors.
+**Wayfare** is a minimalist, quietly artistic web application for AI-powered flight price prediction and empirical flight analytics. Built using real schedule and pricing data from 40,000 flight observations across Indian metro corridors.
 
 ---
 

@@ -20,7 +20,7 @@ export default function Footer() {
           {/* Left: Site wordmark & tagline */}
           <div className="space-y-1.5">
             <h3 className="font-editorial text-2xl font-normal text-[var(--text-primary)] tracking-tight">
-              Aero Fare
+              Wayfare
             </h3>
             <p className="text-sm text-[var(--text-secondary)] font-normal">
               Know before you fly.
@@ -59,7 +59,7 @@ export default function Footer() {
 
         {/* Bottom Line */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[var(--text-tertiary)]">
-          <p>© {currentYear} Aero Fare. Predictions are estimates, not guaranteed fares.</p>
+          <p>© {currentYear} Wayfare. Predictions are estimates, not guaranteed fares.</p>
           <p className="font-mono text-[11px]">Trained on 40,000 Indian metro flight observations</p>
         </div>
       </div>

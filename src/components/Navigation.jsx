@@ -23,10 +23,10 @@ export default function Navigation() {
     setIsDark(nextDark);
     if (nextDark) {
       document.documentElement.classList.add('dark');
-      localStorage.setItem('aero-theme', 'dark');
+      localStorage.setItem('wayfare-theme', 'dark');
     } else {
       document.documentElement.classList.remove('dark');
-      localStorage.setItem('aero-theme', 'light');
+      localStorage.setItem('wayfare-theme', 'light');
     }
   };
 
@@ -53,7 +53,7 @@ export default function Navigation() {
           className="flex items-baseline gap-2.5 group cursor-pointer"
         >
           <span className="font-editorial text-2xl tracking-tight font-medium text-[var(--text-primary)]">
-            Aero Fare
+            Wayfare
           </span>
           <span className="hidden sm:inline-block text-[11px] font-sans-ui uppercase tracking-widest text-[var(--text-tertiary)] group-hover:text-[var(--accent)] transition-colors">
             Intelligence
